@@ -1,0 +1,4 @@
+name: YanniesTownPlugin
+version: '1.0-SNAPSHOT'
+main: space.kettlecraft.yanniesTownPlugin.YanniesTownPlugin
+api-version: '1.21'
